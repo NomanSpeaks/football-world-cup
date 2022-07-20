@@ -76,12 +76,12 @@ flex-container{
     width: 312px;
     border-radius: 10px;
     background-color:#161616;
-    }
+     } */
     .box{
         width: 252px;
         height: 64px;
         margin: 30px;
-    }
+    } 
     .box a{  
         text-decoration: none;
         color: black;
@@ -91,7 +91,7 @@ flex-container{
         text-align: center;
         background-color: white;
         border-radius: 5px;
-    } */
+    } 
 
 footer{
     height: 444px;
