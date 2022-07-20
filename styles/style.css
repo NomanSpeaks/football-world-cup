@@ -1,0 +1,54 @@
+/* Fronts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background: #FFFFFF;
+
+}
+.top-banner{
+    display: flex;
+    margin: 50px 100px ;
+
+    background: #161616;
+    border-radius: 30px;
+}
+.half-width{
+    width: 50%;
+}
+.text-fix{
+    margin-top: 60px;
+    margin-bottom: 111px;
+    margin-left: 90px;
+    
+}
+.text-fix h1{
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 50px;
+}
+.text-fix p{
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 14px;
+    margin-bottom: 40px;
+}
+.text-fix a{
+ color: #FFFFFF;
+ text-decoration: none;
+ font-size: 16px;
+ background: #DD0000;
+ 
+ border-radius: 5px;
+ padding: 10px 20px;
+}
+
+.half-width img{
+    width: 581px;
+    height: 613px;
+}
+.img-fix{
+    margin-top: 33px;
+    margin-right: 79px;
+    margin-bottom:-6px;
+}
